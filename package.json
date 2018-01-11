@@ -1,0 +1,23 @@
+{
+  "name": "machine-learning-com-javascript-regressao-linear",
+  "version": "1.0.0",
+  "description": "Machine Learnin com  javascript fazendo a função de Regressão Linear",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DumildeMatos/Machine-Learning-com-Javascript-Regressao-Linear.git"
+  },
+  "author": "Dumilde Mattos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DumildeMatos/Machine-Learning-com-Javascript-Regressao-Linear/issues"
+  },
+  "homepage": "https://github.com/DumildeMatos/Machine-Learning-com-Javascript-Regressao-Linear#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "ml-regression": "^4.4.2"
+  }
+}
